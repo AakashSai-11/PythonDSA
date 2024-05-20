@@ -18,5 +18,3 @@ def spf(n):
 spf_array = spf(50)
 for i in range(len(spf_array)):
     print(i, spf_array[i])
-
-print("something")
